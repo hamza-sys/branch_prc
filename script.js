@@ -1,5 +1,8 @@
-function mul() {
-    console.log(4 * 4)
+
+
+function sub() {
+    console.log(4 - 4)
+
 }
 
 sum()
