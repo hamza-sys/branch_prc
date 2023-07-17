@@ -1,0 +1,15 @@
+html {
+    font-size: 8px;
+}
+
+div {
+    padding: 40px;
+    font-size: 3rem;
+    border: 1px solid;
+}
+
+@media screen and (min-width: 700px) {
+    html {
+    font-size: 10px;
+    }
+}
