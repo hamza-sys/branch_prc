@@ -1,4 +1,4 @@
-function nul() {
+function mul() {
     console.log(4 * 4)
 }
 
